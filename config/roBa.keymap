@@ -57,10 +57,10 @@
 
         NUM {
             bindings = <
-&kp KP_MINUS    &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_SLASH                         &trans       &kp HOME  &kp UP_ARROW  &kp END     &trans
-&kp KP_PLUS     &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_ASTERISK  &trans      &trans  &kp PAGE_UP  &kp LEFT  &kp DOWN      &kp RIGHT   &kp PAGE_DOWN
-&kp KP_N0       &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL     &trans      &trans  &trans       &trans    &kp COMMA     &kp KP_DOT  &kp COLON
-&kp KP_NUMLOCK  &trans           &trans           &trans           &trans           &trans      &trans  &trans                                           &trans
+&kp KP_MINUS    &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_SLASH                             &trans       &kp HOME  &kp UP_ARROW  &kp END     &trans
+&kp KP_PLUS     &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp KP_ASTERISK  &trans      &trans      &kp PAGE_UP  &kp LEFT  &kp DOWN      &kp RIGHT   &kp PAGE_DOWN
+&kp KP_N0       &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_EQUAL     &trans      &trans      &trans       &trans    &kp COMMA     &kp KP_DOT  &kp COLON
+&kp KP_NUMLOCK  &trans           &trans           &trans           &trans           &trans      &kp DELETE  &trans                                           &trans
             >;
         };
 
