@@ -53,6 +53,8 @@
 &kp GRAVE    &kp TILDE   &trans         &kp EXCLAMATION  &kp EQUAL     &trans      &trans      &kp PIPE        &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp SQT        &kp DOUBLE_QUOTES
 &trans       &trans      &trans         &trans           &trans        &trans      &kp DELETE  &trans                                                                      &trans
             >;
+
+            sensor-bindings = <&inc_dec_kp PAGE_UP PAGE_DOWN>;
         };
 
         NUM {
